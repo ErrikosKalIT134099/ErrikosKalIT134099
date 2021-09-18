@@ -18,6 +18,7 @@
 <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.spyder-ide.org/static/images/spyder_logo.png?h=f4aab2c7" alt="git" width="50" height="40"/> </a>
   <a href="https://netbeans.apache.org/" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <br/>
